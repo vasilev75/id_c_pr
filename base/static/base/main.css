@@ -1,0 +1,11 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+dt {
+    color: black;
+    font-weight: bold;
+}
+
+dt.groove {border-style: groove;}
